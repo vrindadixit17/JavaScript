@@ -1,0 +1,38 @@
+:root {
+    --bg-color: #f0f0f0;
+    --text-color: #111;
+    --btn-bg: #ddd;
+    --btn-text: #000;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 10px 20px;
+    background-color: var(--btn-bg);
+    color: var(--btn-text);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.dark-theme {
+    --bg-color: #111827;
+    --text-color: #f9fafb;
+    --btn-bg: #334155;
+    --btn-text: #f1f5f9;
+}
