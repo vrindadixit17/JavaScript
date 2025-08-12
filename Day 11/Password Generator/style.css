@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e293b;
+    color: #f8fafc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #334155;
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+.output-box {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#passwordDisplay {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+
+#copyBtn {
+    background: #0ea5e9;
+    border: none;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.settings {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.settings label {
+    display: block;
+    margin: 5px 0;
+}
+
+button {
+    background: #0ea5e9;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0284c7;
+}
