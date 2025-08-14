@@ -13,7 +13,7 @@ Welcome to my portfolio of projects! This repository contains a collection of si
 * **[Day 7: Theme Toggle](Day7/Themetoggle)**: A simple dark/light theme toggle.
 * **[Day 8: Infinite Scroll Gallery](Day8/InfiniteScrollGallery)**: A gallery that loads new images as you scroll.
 * **[Day 9: Image Slider](Day9/Imageslider)**: An image carousel or slider.
-* **[Day 10: BMI Calculator](Day10/BMIcalc)**: An image carousel or slider.
+* **[Day 10: BMI Calculator](Day10/BMIcalculator)**: An image carousel or slider.
 * **[Day 11: Password Generator](Day11/PasswordGenerator)**: An image carousel or slider.
 
 ## How to Run These Projects
