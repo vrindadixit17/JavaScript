@@ -15,8 +15,8 @@ Welcome to my portfolio of projects! This repository contains a collection of si
 * **[Day 9: Image Slider](Day9/Imageslider)**: An image carousel or slider.
 * **[Day 10: BMI Calculator](Day10/BMIcalculator)**: An image carousel or slider.
 * **[Day 11: Password Generator](Day11/PasswordGenerator)**: An image carousel or slider.
-* **[Day 12: Password Generator](Day11/PasswordGenerator)**: An image carousel or slider.
-* **[Day 13: Password Generator](Day11/PasswordGenerator)**: An image carousel or slider.
+* **[Day 12: Project App](Day12/ProjwctApp)**: 
+* **[Day 13: Hangman Game](Day13/HangmanGame)**: Hangman is a word-guessing game where one player thinks of a word and other tries to guess it.
 
 ## How to Run These Projects
 
