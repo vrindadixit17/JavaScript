@@ -17,6 +17,8 @@ Welcome to my portfolio of projects! This repository contains a collection of si
 * **[Day 11: Password Generator](Day11/PasswordGenerator)**: An image carousel or slider.
 * **[Day 12: Project App](Day12/ProjwctApp)**: 
 * **[Day 13: Hangman Game](Day13/HangmanGame)**: Hangman is a word-guessing game where one player thinks of a word and other tries to guess it.
+* **[Day 14: Hangman Game](Day14/HangmanGame)**: Hangman is a word-guessing game where one player
+* **[Day 15: Hangman Game](Day15/HangmanGame)**: Hangman is a word-guessing game where one player
 
 ## How to Run These Projects
 
