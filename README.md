@@ -18,8 +18,7 @@ Welcome to my portfolio of projects! This repository contains a collection of si
 * **[Day 12: Project App](Day12/ProjwctApp)**: 
 * **[Day 13: Hangman Game](Day13/HangmanGame)**: A word-guessing game where one player thinks of a word and other tries to guess it.
 * **[Day 14: Meme Generator](Day14/MemeGenerator)**: Generates memes
-* **[Day 15: Hangman Game](Day15/HangmanGame)**: Hangman is a word-guessing game where one player
-
+* **[Day 15: Drawingg App](Day15/DrawingApp)**: Uses canvas API
 ## How to Run These Projects
 
 1.  Clone this repository to your local machine:
